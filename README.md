@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋 I'm MichalRedm
 
-<!--
-**MichalRedm/MichalRedm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI student from Poznań, Poland, with a passion for clean code, creative solutions, and lifelong learning. While I’ve been playing with web development for over a decade, I’m now focused on the intersection of software engineering and artificial intelligence.
 
-Here are some ideas to get you started:
+🔧 **Stack Highlights**  
+- Python (2.5+ years) | TypeScript | Node.js | React  
+- HTML/CSS/SCSS | MongoDB & MySQL  
+- Git | Full-stack & API design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Currently studying:**  
+Artificial Intelligence @ Poznań University of Technology (since 2022)
+
+🧠 **Learning goals:**  
+- Deepen ML/NLP knowledge  
+- Build reusable and scalable full-stack systems  
+- Contribute to open-source AI tools
+
+📂 **Side quests:**  
+- Keeping code DRY across backend/frontend  
+- Experimenting with speech-to-speech and generative models  
+- Sharing practical dev setups and tools
+
+Let's connect over code, models, or ideas!
+
+---
+📫 Reach me here: [github.com/MichalRedm](https://github.com/MichalRedm)
