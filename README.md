@@ -23,4 +23,4 @@ Artificial Intelligence @ Poznań University of Technology (since 2022)
 Let's connect over code, models, or ideas!
 
 ---
-📫 Reach me here: [github.com/MichalRedm](https://github.com/MichalRedm)
+📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/micha%C5%82-redmer-658a7435a/)
