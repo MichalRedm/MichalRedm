@@ -7,14 +7,14 @@ I'm an AI student from Poznań, Poland, with a passion for clean code, creative 
 - HTML/CSS/SCSS | MongoDB & MySQL  
 - Git | Full-stack & API design  
 
-## 🎓 Currently studying:  
+## 🎓 Currently studying
 Artificial Intelligence @ Poznań University of Technology (since 2022)
 
-## 🧠 Learning goals:  
+## 🧠 Learning goals
 - Deepen ML/NLP knowledge  
 - Build reusable and scalable full-stack systems  
 
-## 📂 Side quests:  
+## 📂 Side quests
 - Keeping code DRY across backend/frontend  
 - Experimenting with generative models  
 
