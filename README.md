@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="assets/matrix.gif" alt="Matrix digital rain" style="width: 100%;"/>
+  <img src="assets/matrix.gif" alt="Matrix digital rain" width="100%" />
 </p>
 
-<h1 align="center">
-  <code style="color: #00ff00;">Hi there 👋 I'm MichalRedm</code>
-</h1>
+<h1 align="center"><code style="color: #00ff00;">Hi there 👋 I'm MichalRedm</code></h1>
 
 <p align="center">
   <em style="color: #00ff00;">
@@ -14,9 +12,7 @@
 
 ---
 
-<div style="background-color:#00ff00; padding:8px 16px; border-radius:10px; display:inline-block;">
-  <span style="color:#000000; font-family:monospace; font-size:1.5em;">🧬 About Me</span>
-</div>
+> ## 🧬 `About Me`
 
 🎓 3rd-year Artificial Intelligence student @ Poznań University of Technology  
 🧑‍💻 10+ years of web development fun & learning  
@@ -26,9 +22,7 @@
 
 ---
 
-<div style="background-color:#00ff00; padding:8px 16px; border-radius:10px; display:inline-block;">
-  <span style="color:#000000; font-family:monospace; font-size:1.5em;">🧰 Tech Stack</span>
-</div>
+> ## 🧰 `Tech Stack`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,html,css,sass,mongodb,mysql,git&theme=dark&perline=6" />
@@ -42,9 +36,7 @@
 
 ---
 
-<div style="background-color:#00ff00; padding:8px 16px; border-radius:10px; display:inline-block;">
-  <span style="color:#000000; font-family:monospace; font-size:1.5em;">🧭 Journey Highlights</span>
-</div>
+> ## 🧭 `Journey Highlights`
 
 - 🔍 Python — 2.5+ years mastering data & ML pipelines  
 - 💻 React + TypeScript — dynamic, type-safe interfaces  
@@ -56,9 +48,7 @@
 
 ---
 
-<div style="background-color:#00ff00; padding:8px 16px; border-radius:10px; display:inline-block;">
-  <span style="color:#000000; font-family:monospace; font-size:1.5em;">💡 Learning Goals</span>
-</div>
+> ## 💡 `Learning Goals`
 
 - 🧠 Dive deeper into NLP, ML & speech systems  
 - 🔁 Build unified architectures for frontend/backend sharing  
@@ -67,9 +57,7 @@
 
 ---
 
-<div style="background-color:#00ff00; padding:8px 16px; border-radius:10px; display:inline-block;">
-  <span style="color:#000000; font-family:monospace; font-size:1.5em;">🌌 Contact & Links</span>
-</div>
+> ## 🌌 `Contact & Links`
 
 📫 [LinkedIn](https://www.linkedin.com/in/micha%C5%82-redmer/)  
 📁 [My GitHub Projects](https://github.com/MichalRedm?tab=repositories)  
