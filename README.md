@@ -38,7 +38,7 @@ Python for ML, data pipelines, scripting
 
 <h3 align="center">🌐 Web Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,php,tornado,react,html,css,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,php,react,html,css,sass&theme=dark" />
 </p>
 <p align="center">
 TypeScript + React for interactive frontend development  
