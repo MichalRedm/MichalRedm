@@ -25,7 +25,7 @@
 > ## 🧰 `Tech Stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,html,css,sass,mongodb,mysql,git&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,html,css,sass,mongodb,mysql,git,tensorflow&theme=dark&perline=6" />
 </p>
 
 ### 🧪 Current Focus
