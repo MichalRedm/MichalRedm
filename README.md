@@ -87,7 +87,6 @@ Git for version control and collaboration
 <br/>🐳 Docker, Git, Linux — devops fundamentals  
 <br/>🥧 MongoDB & MySQL — NoSQL & SQL experience  
 <br/>📐 Software architecture & clean design patterns  
-<br/>🤝 Creator of <a href="https://github.com/MichalRedm/llm-reasoning-experiment">LLM Reasoning Experiment</a>  
 </p>
 
 <hr/>
