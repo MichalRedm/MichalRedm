@@ -38,7 +38,7 @@ Python for ML, data pipelines, scripting
 
 <h3 align="center">🌐 Web Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,php,react,html,css,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,php,tornado,react,html,css,sass&theme=dark" />
 </p>
 <p align="center">
 TypeScript + React for interactive frontend development  
@@ -57,12 +57,13 @@ MongoDB and Cassabdra for flexible NoSQL data modeling
 
 <h3 align="center">⚙️ Tools & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode&theme=dark" />
 </p>
 <p align="center">
 Git for version control and collaboration  
 <br/>Docker for containerized environments  
 <br/>Linux for development, deployment & scripting  
+<br/>VS Code as my primary code editor and IDE  
 </p>
 
 <hr/>
