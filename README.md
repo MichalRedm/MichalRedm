@@ -78,6 +78,7 @@ Git for version control and collaboration
 
 <hr/>
 
+<!--
 <h2 align="center">🧭 <code>Journey Highlights</code></h2>
 
 <p align="center">
@@ -90,6 +91,7 @@ Git for version control and collaboration
 </p>
 
 <hr/>
+-->
 
 <h2 align="center">💡 <code>Learning Goals</code></h2>
 
